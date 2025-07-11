@@ -1,0 +1,3 @@
+com\example\SpringApp\service\BukuService.class
+com\example\SpringApp\controller\BukuController.class
+com\example\SpringApp\repository\BukuRepository.class
